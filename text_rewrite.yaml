@@ -1,0 +1,6 @@
+input_variables: [text]
+output_parser: null
+template: 'Сократи текст до 150 символов сохранив смысл.
+Текст: {text}'
+template_format: f-string
+_type: prompt
